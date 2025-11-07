@@ -128,3 +128,6 @@ Mern-ThinkBoard/
 📋 Licence & Contributing
 
 This project is licensed under the MIT License. Contributions are welcome — feel free to submit pull requests or raise issues.
+<img width="1918" height="909" alt="Screenshot 2025-11-04 215502" src="https://github.com/user-attachments/assets/271d01f2-214f-45d5-a13f-59bebe7bb535" />
+
+
